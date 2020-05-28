@@ -1,8 +1,8 @@
 # So6 to occupancy
 
-Determine ATC occupancies in airspace volumes from so6 traffic file
+Determine ATC occupancy in airspace volumes from so6 traffic file
 
-Flight data are manages with [pandas](https://pandas.pydata.org/) / [GeoPandas](http://geopandas.org/) dataframes
+Flight data are managed with [pandas](https://pandas.pydata.org/) / [GeoPandas](http://geopandas.org/) dataframes
 
 Trajectories are built with [movingpandas](https://pypi.org/project/movingpandas/) and intersections with airspace polygons are calculated with movingpandas functions
 
